@@ -1,1 +1,3 @@
 # ProjectSIMPLE
+
+ProjectSIMPLE is the codename for a project of mine that is in development. The main app is SimpleMENU witch is a portable software suite / launcher that is to be used on external drives. SimpleMENU can be intigrated with mostly any portable software. Also being developed in ProjectSIMPLE is a set of tools that include, SimpleCALC, SimpleFILE and SimpleIDE. This suite is being developed with cyber security and privacy at its heart. In the future more matching tools will be made. This project is being built on NWJS V0.54.0 using HTML5, SASS and Javascript for UX with a NODE.JS Backend.
